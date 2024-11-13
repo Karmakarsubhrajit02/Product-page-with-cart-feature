@@ -43,4 +43,5 @@ This project demonstrates how to build a product page with a functional shopping
 - Add/remove quantity controls for each item in the cart.
 - Implement local storage to persist the cart data.
 - Integrate with a back-end API to fetch product data and handle cart operations more securely.
-project url: https://frabjous-brioche-ed27f9.netlify.app/
+
+### *project url*: https://frabjous-brioche-ed27f9.netlify.app/
